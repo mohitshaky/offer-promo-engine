@@ -3,6 +3,7 @@
 > Production-ready Spring Boot microservice for managing promo codes, vendor/category eligibility, validation, usage analytics, and monitoring — with Kubernetes manifests and Prometheus/Grafana observability.
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
+[![CI](https://github.com/mohitshaky/offer-promo-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/mohitshaky/offer-promo-engine/actions/workflows/ci.yml)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-7-red?logo=redis)
